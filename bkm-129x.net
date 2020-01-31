@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/martin/SkumServer/eda-projects/bkm-129x-compatible/bkm-129x.sch)
-    (date "2020-01-26T23:24:23 CET")
+    (date "2020-01-30T18:43:04 CET")
     (tool "Eeschema 4.0.7-e2-6376~61~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -52,7 +52,7 @@
       (tstamp 5E139855))
     (comp (ref C501)
       (value 100uF)
-      (footprint Capacitors_SMD:CP_Elec_6.3x4.5)
+      (footprint Capacitors_SMD:CP_Elec_6.3x5.3)
       (libsource (lib device) (part CP_Small))
       (sheetpath (names /) (tstamps /))
       (tstamp 5E139A3E))
